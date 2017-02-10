@@ -7,8 +7,8 @@
 
   <!-- Device Trees -->
   <project path="device/samsung/hero-common" name="android_device_samsung_hero-common" remote="8890dev" />
-  <project path="device/samsung/herolte" name="LineageOS/android_device_samsung_herolte" remote="github" />
-  <project path="device/samsung/hero2lte" name="LineageOS/android_device_samsung_hero2lte" remote="github" />
+  <project path="device/samsung/herolte" name="android_device_samsung_herolte" remote="8890dev" />
+  <project path="device/samsung/hero2lte" name="android_device_samsung_hero2lte" remote="8890dev" />
 
   <!-- Kernel -->
   <project path="kernel/samsung/universal8890" name="android_kernel_samsung_universal8890" remote="8890dev" />
@@ -17,7 +17,7 @@
   <project path="vendor/samsung/hero-common" name="android_vendor_samsung_hero-common" remote="8890dev" />
 
   <!-- Hardware -->
-  <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" />
+  <project path="hardware/samsung" name="android_hardware_samsung" remote="8890dev" />
   <project path="hardware/samsung_slsi-cm/exynos" name="LineageOS/android_hardware_samsung_slsi-cm_exynos" remote="github" />
   <project path="hardware/samsung_slsi-cm/exynos5" name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" remote="github" />
   <project path="hardware/samsung_slsi-cm/openmax" name="LineageOS/android_hardware_samsung_slsi-cm_openmax" remote="github" />
