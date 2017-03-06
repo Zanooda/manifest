@@ -5,8 +5,12 @@
 	   fetch="https://github.com/8890dev"
 	   revision="nougat" />
 
+  <remote  name="zanooda"
+           fetch="https://github.com/Zanooda"
+           revision="nougat" />
+
   <!-- Device Trees -->
-  <project path="device/samsung/hero-common" name="android_device_samsung_hero-common" remote="8890dev" />
+  <project path="device/samsung/hero-common" name="android_device_samsung_hero-common" remote="zanooda" />
   <project path="device/samsung/herolte" name="LineageOS/android_device_samsung_herolte" remote="github" revision="cm-14.1" />
   <project path="device/samsung/hero2lte" name="LineageOS/android_device_samsung_hero2lte" remote="github" revision="cm-14.1" />
 
